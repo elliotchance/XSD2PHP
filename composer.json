@@ -1,0 +1,13 @@
+{
+  "name": "elliotchance/XSD2PHP",
+  "description": "LegkoXML (XSD2PHP) support",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Mike Bevz",
+      "email": "myb@mikebevz.com",
+      "homepage": "http://mikebevz.com",
+      "role": "Lead Developer"
+    }
+  ]
+}
